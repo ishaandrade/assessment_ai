@@ -1,5 +1,4 @@
 anaconda-catalogs
-anaconda-navigator
 anaconda-project
 astropy
 autopep8
