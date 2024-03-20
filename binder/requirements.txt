@@ -33,7 +33,6 @@ moviepy
 mss
 mtcnn
 munkres
-navigator-updater
 nltk
 opencv-python-headless
 pep8
