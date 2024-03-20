@@ -1,4 +1,3 @@
-anaconda-anon-usage
 anaconda-catalogs
 anaconda-navigator
 anaconda-project
