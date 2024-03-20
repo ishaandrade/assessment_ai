@@ -49,7 +49,6 @@ pyspark
 pytest
 python-snappy
 rope
-ruamel-yaml-conda
 s3fs
 sacremoses
 scikit-image
