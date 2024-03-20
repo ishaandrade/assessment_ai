@@ -6,7 +6,6 @@ bottleneck
 brotlipy
 camelot-py
 conda-build
-conda-verify
 cytoolz
 dask-ml
 datashader
