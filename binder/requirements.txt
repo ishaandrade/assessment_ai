@@ -6,7 +6,6 @@ bottleneck
 brotlipy
 camelot-py
 conda-build
-conda-libmamba-solver
 conda-repo-cli
 conda-token
 conda-verify
